@@ -1,2 +1,2 @@
 # PyFun
-Python Projects
+Python Projects and Core Concepts
