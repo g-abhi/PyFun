@@ -5,6 +5,8 @@ Collection of Python Projects
 
 ## ML-Networks
 
+## Collecting Computer Security (UC Berkeley's CS 161) Resources 
+
 ## Automated Google Search
 
 ## pyCAPTCHA
